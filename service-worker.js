@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/patentino-attrezzature/precache-manifest.7152f20cd708d57d7acbf449ec9788b3.js"
+  "/patentino-attrezzature/precache-manifest.c421e21e3fee66cd699de90ddf1cdfa1.js"
 );
 
 workbox.clientsClaim();
