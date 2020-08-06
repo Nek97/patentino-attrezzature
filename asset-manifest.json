@@ -1,7 +1,7 @@
 {
   "main.css": "/patentino-attrezzature/static/css/main.2cc6fa04.chunk.css",
-  "main.js": "/patentino-attrezzature/static/js/main.f515e998.chunk.js",
-  "main.js.map": "/patentino-attrezzature/static/js/main.f515e998.chunk.js.map",
+  "main.js": "/patentino-attrezzature/static/js/main.a9ddb4ee.chunk.js",
+  "main.js.map": "/patentino-attrezzature/static/js/main.a9ddb4ee.chunk.js.map",
   "static/css/1.af5ffa30.chunk.css": "/patentino-attrezzature/static/css/1.af5ffa30.chunk.css",
   "static/js/1.fa5237ff.chunk.js": "/patentino-attrezzature/static/js/1.fa5237ff.chunk.js",
   "static/js/1.fa5237ff.chunk.js.map": "/patentino-attrezzature/static/js/1.fa5237ff.chunk.js.map",
@@ -11,6 +11,6 @@
   "static/css/main.2cc6fa04.chunk.css.map": "/patentino-attrezzature/static/css/main.2cc6fa04.chunk.css.map",
   "static/css/1.af5ffa30.chunk.css.map": "/patentino-attrezzature/static/css/1.af5ffa30.chunk.css.map",
   "index.html": "/patentino-attrezzature/index.html",
-  "precache-manifest.e65333f15ebf17bdbe94bac2c83375e1.js": "/patentino-attrezzature/precache-manifest.e65333f15ebf17bdbe94bac2c83375e1.js",
+  "precache-manifest.7152f20cd708d57d7acbf449ec9788b3.js": "/patentino-attrezzature/precache-manifest.7152f20cd708d57d7acbf449ec9788b3.js",
   "service-worker.js": "/patentino-attrezzature/service-worker.js"
 }
