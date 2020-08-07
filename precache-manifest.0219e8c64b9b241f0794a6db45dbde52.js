@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a72e6ecd750bc0154b81",
+    "revision": "354b49edb7fdc9209e0c",
     "url": "/patentino-attrezzature/static/css/main.f5f5762f.chunk.css"
   },
   {
-    "revision": "a72e6ecd750bc0154b81",
-    "url": "/patentino-attrezzature/static/js/main.a72e6ecd.chunk.js"
+    "revision": "354b49edb7fdc9209e0c",
+    "url": "/patentino-attrezzature/static/js/main.354b49ed.chunk.js"
   },
   {
     "revision": "1da3f09afb1131824f45",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/patentino-attrezzature/static/media/contact.deb0fbed.png"
   },
   {
-    "revision": "59c7bf54d59c395884fec7e0aedd2b1f",
+    "revision": "f91c5da89e267bda80987bc85caad59c",
     "url": "/patentino-attrezzature/index.html"
   }
 ];
