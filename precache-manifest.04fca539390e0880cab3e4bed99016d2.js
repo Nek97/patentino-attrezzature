@@ -1,23 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "dcf1c1b450993999b2f6",
-    "url": "/patentino-attrezzature/static/css/main.f11089b0.chunk.css"
+    "revision": "85df3a9c695b14f69a41",
+    "url": "/patentino-attrezzature/static/css/main.610f24af.chunk.css"
   },
   {
-    "revision": "dcf1c1b450993999b2f6",
-    "url": "/patentino-attrezzature/static/js/main.dcf1c1b4.chunk.js"
+    "revision": "85df3a9c695b14f69a41",
+    "url": "/patentino-attrezzature/static/js/main.85df3a9c.chunk.js"
   },
   {
-    "revision": "14e7550c2fbab68eef53",
-    "url": "/patentino-attrezzature/static/css/1.aef2e31a.chunk.css"
+    "revision": "a4bd9b8a7187ba3e3960",
+    "url": "/patentino-attrezzature/static/css/1.1f39d6a9.chunk.css"
   },
   {
-    "revision": "14e7550c2fbab68eef53",
-    "url": "/patentino-attrezzature/static/js/1.14e7550c.chunk.js"
+    "revision": "a4bd9b8a7187ba3e3960",
+    "url": "/patentino-attrezzature/static/js/1.a4bd9b8a.chunk.js"
   },
   {
     "revision": "945ce84285b6785d0e63",
     "url": "/patentino-attrezzature/static/js/runtime~main.945ce842.js"
+  },
+  {
+    "revision": "f66123a45cad62e91b68bce766ac6f44",
+    "url": "/patentino-attrezzature/static/media/close.f66123a4.png"
   },
   {
     "revision": "a4749524b08ad2386da82b69e62f612d",
@@ -44,7 +48,7 @@ self.__precacheManifest = [
     "url": "/patentino-attrezzature/static/media/contact.deb0fbed.png"
   },
   {
-    "revision": "56d23bcf23517ad9c61675ed16ea37e5",
+    "revision": "38cd808650c59b961d4736a66dc664bf",
     "url": "/patentino-attrezzature/index.html"
   }
 ];
